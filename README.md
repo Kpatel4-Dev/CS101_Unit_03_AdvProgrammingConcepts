@@ -14,4 +14,4 @@ These examples will help you understand:
 - ✅ How to perform basic operations with strings, numbers, and lists
 - ✅ How to use variables and simple functions
 
-  ##### 📌 Lab 6 FileIO Instructions: [Lab 6: File Input Output](Lab_06/FileIO_README.md)
+  ##### 📌 Lab 6 FileIO Instructions: [Lab 6: File Input Output](Lab_06/FileIO_README.txt)
